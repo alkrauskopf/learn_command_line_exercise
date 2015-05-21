@@ -42,9 +42,13 @@ English Questions
    Note the commands below where I,
    
    1)  cd ~  => list shows my root directory structure
+ 
    2)  cd /temp   => invalid (because there's no 'temp' directory.)
+ 
    3)  then I try   cd /tmp  =>  I go to an existing 'tmp' directory, but not the one found in Chapter 6.
+ 
    4)  ls =>  shows files I don't recognize
+ 
    5)  cd ..  =>  backs me up to a deeper(?) system directory containing my 'tmp' directory.
    
     Allens-MacBook-Pro:tmp allenkrauskopf$ cd ~
