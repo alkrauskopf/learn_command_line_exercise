@@ -8,6 +8,6 @@ As part of the Build the Toolbelt class at DaVinci.<br/>
 git status<br/>
 To Stage: git add README.md<br/>
   <br/>
-To Commit:  git commit -m Text Description<br/>
+To Commit:  git commit -m 'Text Description'<br/>
 <br/>
 To Push:  git push<br/>
