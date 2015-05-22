@@ -22,11 +22,21 @@ English Questions
     Allens-MacBook-Pro:temp allenkrauskopf$
     
 
-2)  Why don't we go into the temp directory?
+2)  Reworded Question: "Why don't we go into" == "Let's go into" i.e. What command would you run to go into the temp directory?
 
-   We can go into the temp directory, but the presumption is that directories and files
-   in this directory are temporary. 
-     So there may be times when all temp files are removed.
+    Allens-MacBook-Pro:Chapter 5 allenkrauskopf$ cd /tmp
+    Allens-MacBook-Pro:tmp allenkrauskopf$ ls
+    KSOutOfProcessFetcher.0.r55jifrBu08ZlGAfPLYXKgYad4c=
+    KSOutOfProcessFetcher.501.r55jifrBu08ZlGAfPLYXKgYad4c=
+    launch-2lDRDP
+    launch-bYXwnB
+    launch-d10FvB
+    launchd-128.b1axVO
+    launchd-154.krCBz9
+    launchd-157.18cgoV
+    launchd-342.auaXFj
+    launchd-82818.CLhyw6
+    mysql.sock
 
 3) Can you go to the slash temp directory?
    
