@@ -62,3 +62,13 @@ English Questions
 5) What does the .. argument to cd do?
 
   the '..' argument moves you to the next highest directory in the directory tree structure.
+
+6)  The Process I use for finding the path with my graphical file browser is as follows:
+
+   a)  I click on 'Finder' the smiley face icon on my App Dock.
+   
+   b) On the left side, I then click on my home directory 'allenkrauskopf' directory.
+   
+   c) I then expand the subdirectories of 'Workspace'
+   
+   d) I attached a screen shot to the Pivotal Story.
