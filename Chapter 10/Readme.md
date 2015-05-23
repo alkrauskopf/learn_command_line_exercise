@@ -63,4 +63,4 @@ What is ROBOCOPY?
    It is supposed to be more reliable than the standard 'cp' command.  How so?  I have no idea.
    
 
-   I finally understand the purpose of the (sometimes) slash at the end of command line commands.  It explicitely identifies the preceding argument as a directory.
+   I now understand the purpose of the (sometimes) slash at the end of command line commands.  It explicitely identifies the preceding argument as a directory.
