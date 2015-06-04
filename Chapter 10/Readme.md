@@ -4,11 +4,11 @@ please update the readme for the above and the story will be ready to accept
 
 I did the following from "Chapter 10/temp" directory as shown below:
 
-- Listed temp to show '.bash_profile' doesn't exist.
+a) Listed temp to show '.bash_profile' doesn't exist.
  
-- Copied .bash_profile into current directory
+b) Copied .bash_profile into current directory
 
-- Listed temp to show that .bash_profile now exists.
+c) Listed temp to show that .bash_profile now exists.
 
 
     Allens-MacBook-Pro:temp allenkrauskopf$ ls -a
@@ -16,12 +16,15 @@ I did the following from "Chapter 10/temp" directory as shown below:
     ..			iamcool.txt		something
     Readme.md		neat.txt		thefourthfile.txt
     awesome.txt		newplace
+    
     Allens-MacBook-Pro:temp allenkrauskopf$ cp ~/.bash_profile .
+    
     Allens-MacBook-Pro:temp allenkrauskopf$ ls -a
     .			awesome.txt		newplace
     ..			foo.txt			secondplace
     .bash_profile		iamcool.txt		something
     Readme.md		neat.txt		thefourthfile.txt
+    
     Allens-MacBook-Pro:temp allenkrauskopf$
     
 
