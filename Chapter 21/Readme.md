@@ -1,4 +1,15 @@
+REJECTION: What command(s) did you run for Q's #1, 2, 3 ?
 
+ANSWER:  I ran 'env' from the command line and saw my answers in the listing that was displayed.
+
+  1) SHELL=/bin/bash
+  
+  2) PWD=/Users/allenkrauskopf/workspace/davinci_coders_t2_2015/homework/learn_command_line_exercise/Chapter 21
+  
+  3) HOME=/Users/allenkrauskopf
+  
+  
+--------------------------------------------------------------
 Below is my environment:
 
 1) What is your shell set to?   SHELL=/bin/bash
